@@ -1,2 +1,1 @@
-# NSS-management-System
-project
+# NSS-MANAGEMENT-SYSTEM
